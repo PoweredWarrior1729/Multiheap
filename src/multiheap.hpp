@@ -1,5 +1,8 @@
 #include <vector>
 
+#ifndef MULTIHEAP_HPP
+#define MULTIHEAP_HPP
+
 template<typename T> class MultiHeap {
 private:
     struct Node {
@@ -24,3 +27,5 @@ public:
     // void pop_function();
     // void swap(MultiHeap<T>& other);
 };
+
+#endif

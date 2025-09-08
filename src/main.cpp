@@ -1,5 +1,7 @@
 #include <iostream>
+
 #include "testing.hpp"
+#include "multiheap.hpp"
 
 int main(int argc, const char * argv[]) {
     run_tests();

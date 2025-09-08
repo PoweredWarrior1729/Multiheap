@@ -1,4 +1,5 @@
 #include <cassert>
+
 #include "testing.hpp"
 
 // Test that always passes
